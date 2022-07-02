@@ -11,7 +11,7 @@ class About extends Component {
                     <span className={classes.head}>ABOUT ME</span>
                     <h2 className={classes.heading}>Who Am I?</h2>
                     <div className={classes.About}>
-                        <p> My name is <b>DANIEL AÑONUEVO</b> and I am currently learning to be a Full Stack Developer. I'm currently working as an IT Helpdesk Analyst II at <a href='#'>Optum Global Solutions</a>. I've been working as IT Helpdesl since 2014. I've been with the BPO Industry for a while now and I wanted to explore new things. I am much interested in developing new things that using problem solving skills and challenging. :)  </p>
+                        <p> My name is <b>DANIEL AÑONUEVO</b> and I am currently learning to be a Full Stack Developer. I'm currently working as an IT Helpdesk Analyst II at <a href='#'>Optum Global Solutions</a>. I've been working as IT Helpdesk since 2014. I've been with the BPO Industry for a while now and I wanted to explore new things. I am much interested in developing new things that using problem solving skills and challenging. :)  </p>
                         <p className={classes.br}>I love exploring new technologies and being a practitioner, I like to stay on top of latest trends.
                         </p>
                     </div>
