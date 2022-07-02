@@ -23,8 +23,8 @@ class Education extends Component {
                                                     <MdWork />
                                                 </div>
                                                 <div className={classes.label}>
-                                                    <h2 >Experience  <span>July(2021)-Present</span></h2>
-                                                    <p>I am currently working as <b>Software Developer Engineer</b> at <a target="_blank" href="https://www.springworks.in/"><b>Springworks</b></a> <i>(previously Springrole and Springworks is a HR technology startup that is building tools and products to simplify recruiting and help organizations engage and retain their employees)</i> and boosting my professional skills.</p>
+                                                    <h2 >Experience  <span>November 2020 -Present</span></h2>
+                                                    <p>I am currently working as <b>IT Helpdesk Analyst II</b> at <a target="_blank" href="#"><b>Optum Global Solutions Phils.</b></a>I provide IT assistance for Optum Employess regarding their technical issues and other account related concerns. As an IT Helpdesk Analyst, we also manage and triage incident tickets, coordinate with other IT teams to provide immediate support. We also the point of contact to open bridge lines and/or war rooms for priority tickets. </p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
@@ -34,8 +34,8 @@ class Education extends Component {
                                                     <MdSchool />
                                                 </div>
                                                 <div className={classes.label}>
-                                                    <h2 >Undergraduation at SLIET <span>2017-2021</span></h2>
-                                                    <p>I completed my undergraduation in CSE (Computer Science and Engineering) from <a href='http://sliet.ac.in/'>SLIET</a> with overall 82.71%.</p>
+                                                    <h2 >Undergraduation at Polytechnic University of the Philippines <span>2003-2007</span></h2>
+                                                    <p>I completed my undergraduation in BSME (Bachelor of Science in Mechanical Engineeting) from <a href='http://sliet.ac.in/'>PUP Sta. Mesa</a> with overall 2.5 GPA</p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
@@ -45,8 +45,8 @@ class Education extends Component {
                                                     <FaSchool />
                                                 </div>
                                                 <div className={classes.label}>
-                                                    <h2 >Higher Education  <span>2014-2016</span></h2>
-                                                    <p>I have completed my higher education from HKIS with major subjects as Physics,Chemistry & Maths with 85% merit in CBSE board. </p>
+                                                    <h2 >Higher Education  <span>1999-2003</span></h2>
+                                                    <p>I have completed my higher education from CMSHS (City of Mandaluyong Science High School) with general average of 89% </p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
@@ -57,8 +57,9 @@ class Education extends Component {
                                                     <MdWork />
                                                 </div>
                                                 <div className={classes.label}>
-                                                    <h2 >Internship</h2>
-                                                    <p>Completed one month Internship in React Js with Internity Foundation</p>
+                                                    <h2 >Certification</h2>
+                                                    <p>Completed training for ITIL v4</p>
+                                                    <p>Undergoing classes for Full Stack Web Developer with <a href='https://kodego.ph/'>Kodego.</a> </p>
                                                 </div>
                                                 <div className={classes.timeline_entry_inner}><div className={classes.timeline_icon_3 || classes.color_none}></div></div>
                                             </article>
