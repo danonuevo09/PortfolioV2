@@ -1,9 +1,9 @@
 {
-  "short_name": "Sachin Mittal portfolio",
-  "name": "Sachin Mittal portfolio",
+  "short_name": "Daniel's Portfolio",
+  "name": "Daniel Anonuevo Portfolio",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "apple-touch-icon",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
