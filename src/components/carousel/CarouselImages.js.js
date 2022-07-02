@@ -6,7 +6,6 @@ import "animate.css/animate.min.css";
 import { GoProject } from 'react-icons/go'
 import { FaArrowCircleDown } from 'react-icons/fa'
 import Hello from '../images/Hello.jpg'
-import Pencil from '../images/Pencil.jpg'
 import laptop1 from '../images/laptop1.jpg'
 
 class CarouselImages extends Component {
@@ -23,7 +22,7 @@ class CarouselImages extends Component {
                         </div>
                     </div>
                     <div className={classes.image_container}>
-                        <img className={classes.image} src={Pencil} alt="myImage" />
+                        <img className={classes.image} src={laptop1} alt="myImage" />
                         <div className={classes.h2}>
                             <h1> I love building and exploring</h1>
                             <h1>THINGS!!</h1>
