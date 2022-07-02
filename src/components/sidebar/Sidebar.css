@@ -64,12 +64,12 @@
 }
 .fa-lg{
   text-decoration: none;
-  color:red;
+  color:rgb(121, 189, 252);
 }
 
 .links:hover{
  /* color:rgb(121, 189, 252); */
- color:rgb(121, 189, 252);
+ color:rgb(19, 130, 233);
  text-decoration: underline;
 }
 .fas:hover{

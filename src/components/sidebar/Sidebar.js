@@ -9,9 +9,10 @@ class Sidebar extends Component {
 
         return (
             <div className="sidebar">
-                <div style={{ color: 'black', fontWeight: 'bold' }} className="tagtop"> # programmer_life </div>
-                <div style={{ color: 'black', fontWeight: 'bold' }} className=""> # hello_world </div>
-                <div style={{ color: 'black', fontWeight: 'bold' }} className=""> # coding </div>
+                <div style={{ color: 'black', fontWeight: 'bold' }} className="tagtop"> #programmer_life </div>
+                <div style={{ color: 'black', fontWeight: 'bold' }} className=""> #kodegoPH </div>
+                <div style={{ color: 'black', fontWeight: 'bold' }} className=""> #hello_world </div>
+                <div style={{ color: 'black', fontWeight: 'bold' }} className=""> #coding </div>
                 <h1><Link smooth to="/#start" className="h1_links">Daniel Añonuevo</Link></h1>
 
                 <img src={logo} />
